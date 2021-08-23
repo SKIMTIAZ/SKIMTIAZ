@@ -4,6 +4,7 @@
 **SKIMTIAZ/SKIMTIAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on UI Designing.
 - 🌱 I’m currently learning React Framework.
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: skimtiaz86@gmail.com
 - 😄 Pronouns: You can get one.
 - ⚡ Fun fact: ...
--->
+
 
 
 
