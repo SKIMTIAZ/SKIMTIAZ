@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, JavaScript.
 - 📫 How to reach me: skimtiaz86@gmail.com
 - 😄 Pronouns: You can get one.
+- ⚡ Fun fact: I can't work without music.
 
 
 
