@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Shaikh👋
 
 <!--
 **SKIMTIAZ/SKIMTIAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about HTML, CSS, JavaScript.
 - 📫 How to reach me: skimtiaz86@gmail.com
 - 😄 Pronouns: You can get one.
-- ⚡ Fun fact: ...
 
 
 
