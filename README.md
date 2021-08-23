@@ -10,9 +10,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Framework.
 - 👯 I’m looking to collaborate on Web Development Projects.
 - 🤔 I’m looking for help with Web Development Internships.
+- 🏓 Tinkering with interactions on Codepen. 
+- 💼 Sharing updates on LinkedIn. 
 - 💬 Ask me about HTML, CSS, JavaScript.
 - 📫 How to reach me: skimtiaz86@gmail.com
 - 😄 Pronouns: You can get one.
+
 
 
 
