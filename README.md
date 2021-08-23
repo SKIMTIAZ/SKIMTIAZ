@@ -1,5 +1,7 @@
 ### Hi there I'm Shaikh👋
 
+I'm Shaikh an aspiring frontend web developer💻. Interested in working on frontend, API's, Databases and currently learning about Distributed Ledger Technology. Occasionaly I do participate in Hackathons 💡 and I have a relationship with Programming 😐
+
 <!--
 **SKIMTIAZ/SKIMTIAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
